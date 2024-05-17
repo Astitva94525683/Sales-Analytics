@@ -10,6 +10,7 @@ Its a sales analysis projects . I have done some good sales analysis for AtliQ h
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Astitva94525683/Sales-Analytics/blob/main/reports/Market%20Performance%20vs%20Target%20Report.pdf
 )_
+   **3.** Generated other miscellaneous Sales reports to get a better understanding of sales in different prospective _[Miscellaneous Reports](https://github.com/Astitva94525683/Sales-Analytics/blob/main/reports/Miscellaneous%20reports.pdf)_contains Performance report for top 10 products , Performance report by devision , Performance report for top and bottom 5 products , Performance report for new products in 2021 , Performance report for top 5 country.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
